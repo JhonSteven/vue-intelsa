@@ -1,0 +1,41 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
+    "axios": "^0.19.2",
+    "bootstrap-vue": "^2.15.0",
+    "core-js": "^3.6.5",
+    "debounce": "^1.2.0",
+    "moment": "^2.27.0",
+    "mq": "0.0.0",
+    "node-sass": "^4.14.1",
+    "qs": "^6.9.4",
+    "sass-loader": "^9.0.2",
+    "vee-validate": "^3.3.7",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0",
+    "vue-sweetalert2": "^3.0.6",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.4.0",
+    "@vue/cli-service": "^4.4.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
